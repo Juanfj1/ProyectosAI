@@ -24,3 +24,11 @@ The system loads a PDF document, generates embeddings, stores them in a vector d
 
 ## How to Run
 1. Install dependencies:
+
+2. Add your OpenAI API key in a `.env` file:
+
+3. Run:
+
+---
+
+This project demonstrates applied Prompt Engineering and RAG architecture for document-based intelligent assistants.
